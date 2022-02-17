@@ -1,0 +1,90 @@
+{
+  "main": {
+    "id": "7f2c41ac2ff49dd4",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f7af06f3cb8d819",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1344c947eb7fff4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "04134159699b2a20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4511719ad6a7b63c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e5b1f23f1fb88337",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8ae172ddccf4aac3",
+    "type": "split",
+    "children": [
+      {
+        "id": "124b6bcd1f7c95c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ab0cc3f4bf92acd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3f7af06f3cb8d819",
+  "lastOpenFiles": [
+    "recipes/Boilermake Tailgater Chili.md",
+    "recipes/Beans and Tortillas.md"
+  ]
+}
